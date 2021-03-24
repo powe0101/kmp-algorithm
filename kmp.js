@@ -1,4 +1,5 @@
 //created : hyunjin.direct@gmail.com
+//reference : https://gist.github.com/blasten/d42bd0d814b7df1addea
 
 function solution(str) 
 {
