@@ -1,5 +1,4 @@
 //created : hyunjin.direct@gmail.com
-//https://yeu.kr/76ykz
 
 function solution(str) 
 {
